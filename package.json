@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jasmine-node spec"
+    "test": "./node_modules/.bin/jasmine-node spec",
+    "test-unit": "./node_modules/.bin/jasmine-node spec/unit",
+    "test-int": "./node_modules/.bin/jasmine-node spec/integration"
   },
   "repository": {
     "type": "git",
