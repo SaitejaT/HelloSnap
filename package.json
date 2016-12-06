@@ -6,7 +6,7 @@
   "scripts": {
     "test": "./node_modules/.bin/jasmine-node spec",
     "test-unit": "./node_modules/.bin/jasmine-node spec/unit",
-    "test-int": "./node_modules/.bin/jasmine-node spec/integration"
+    "test-int": "./node_modules/.bin/jasmine-node spec/int"
   },
   "repository": {
     "type": "git",
